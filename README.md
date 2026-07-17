@@ -8,3 +8,4 @@
 
 ## Reflection
 This worksheet helps document the purpose of the project and the steps completed during the lab.
+![Uploading image.png…]()
